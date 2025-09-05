@@ -3,7 +3,10 @@
 # Round up to one decimal point
 def calculate_height(h0, t):
     # TODO: Implement this function
-    pass  # Replace with your code
+    #pass  # Replace with your code
+    initial height = 50
+    gravity = 9.8
+    height = 
 
 # Function 2: Calculate the distance traveled by the car
 # This function should take the time t as input and return the distance traveled by the car.
